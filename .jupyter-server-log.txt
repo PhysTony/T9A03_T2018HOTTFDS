@@ -29,3 +29,16 @@ TermSocket.open: 1
 TermSocket.open: Opened 1
 [I 06:09:13.168 NotebookApp] Saving file at /Section 5 Joining and Blending data/P1-Brazilian-E-Commerce-Dataset.zip
 [I 06:09:48.014 NotebookApp] Saving file at /README.md
+[I 06:19:06.730 NotebookApp] Creating new directory in 
+[I 06:19:37.845 NotebookApp] Uploading file to /Section 6 Table calculations, more Dashboard and Storytelling/P1-UK-Bank-Customers.csv
+[I 06:20:05.171 NotebookApp] Creating new directory in 
+[I 06:20:16.411 NotebookApp] Creating new directory in 
+[I 06:20:18.565 NotebookApp] Creating new directory in 
+[I 06:20:20.503 NotebookApp] Creating new directory in 
+[I 06:21:21.985 NotebookApp] Uploading file to /Section 7 Advanced Data Preparation/P1-PersonalVehicleSalesGlobal.xlsx
+[I 06:21:51.170 NotebookApp] Uploading file to /Section 8 Clusters, Custom territories, Design features/P1-StartupExpansion.xlsx
+[I 06:21:52.405 NotebookApp] Uploading file to /Section 8 Clusters, Custom territories, Design features/P1-US-Cities-Population.csv
+[I 06:22:24.684 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-Section-9-Challenge-II.pdf
+[I 06:22:26.203 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-Section-9-Challenge-I.pdf
+[I 06:23:01.116 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-nyc-park-crime-stats-q1-2018.pdf
+[I 06:23:28.048 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-NYC-Parks-and-Public-Spaces-Spatial-Files.zip
