@@ -42,3 +42,8 @@ TermSocket.open: Opened 1
 [I 06:22:26.203 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-Section-9-Challenge-I.pdf
 [I 06:23:01.116 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-nyc-park-crime-stats-q1-2018.pdf
 [I 06:23:28.048 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-NYC-Parks-and-Public-Spaces-Spatial-Files.zip
+[I 06:25:00.330 NotebookApp] Uploading file to /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv
+[I 06:25:25.042 NotebookApp] Saving file at /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv
+[I 06:25:30.075 NotebookApp] Saving file at /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv
+[I 06:25:34.769 NotebookApp] Saving file at /Section 9 What's new in Tableau 2018 (For Tableau 2018 only)/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv
+[I 06:26:30.205 NotebookApp] Uploading file to /Section 10 Course Conclusion/P1-Tableau-Course-Conclusion.pptx
